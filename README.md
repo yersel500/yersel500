@@ -1,4 +1,28 @@
-### Hi there 👋
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yersel500/count.svg" />
+</p>
+
+## About me
+
+I'm Yersel Hurtado. A Full-Stack Developer student on Microverse. My last job was as a project manager, it gave me a lot of experience of leading teams :stuck_out_tongue: and :coffee: lover. 
+
+I ocassionally blog and tweet about Javascript.
+
+
+## Things I am passionate about
+
+- Javascript
+
+## Get in touch :coffee:
+
+- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/YerselHurtado).
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/yersel-hurtado/)
+- And of course GitHub you're already on (Recursion).
 
 <!--
 **yersel500/yersel500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
