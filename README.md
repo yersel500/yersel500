@@ -11,12 +11,12 @@
 
 I'm Yersel Hurtado. A Full-Stack Developer student on Microverse. My last job was as a project manager, it gave me a lot of experience of leading teams :muscle:
 
-I ocassionally blog and tweet about Javascript.
+I occasionally blog and tweet about Javascript.
 
 
 ## Things I am passionate about
 
-- Javascript
+- JavaScript
 
 ## Some Stats :sparkles:
 
@@ -30,7 +30,7 @@ I ocassionally blog and tweet about Javascript.
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/YerselHurtado).
+- Your future buddy to discuss JavaScript related things and tech in general on [Twitter](https://twitter.com/YerselHurtado).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/yersel-hurtado/)
 - And of course GitHub you're already on (Recursion).
 
