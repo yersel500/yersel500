@@ -18,6 +18,14 @@ I ocassionally blog and tweet about Javascript.
 
 - Javascript
 
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yersel500&langs_count=10&theme=tokyonight&layout=compact" alt="yersel500 :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yersel500&show_icons=true&theme=synthwave" alt="yersel :: Profile Stats" /></p>
+
 ## Get in touch :coffee:
 
 - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/YerselHurtado).
