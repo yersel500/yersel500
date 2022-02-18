@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Yersel Hurtado. A Full-Stack Developer student on Microverse. My last job was as a project manager, it gave me a lot of experience of leading teams :stuck_out_tongue: and :coffee: lover. 
+I'm Yersel Hurtado. A Full-Stack Developer student on Microverse. My last job was as a project manager, it gave me a lot of experience of leading teams :muscle:
 
 I ocassionally blog and tweet about Javascript.
 
@@ -18,7 +18,7 @@ I ocassionally blog and tweet about Javascript.
 
 - Javascript
 
-## Some Stats
+## Some Stats :sparkles:
 
 <h4 align="center">Top langs :tongue:</h4>
 
