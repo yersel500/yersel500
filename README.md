@@ -7,11 +7,11 @@
   <img src="https://profile-counter.glitch.me/yersel500/count.svg" />
 </p>
 
-<h2 align="center">I am Full Stack Developer, Electronics Engineer</h2>
+<h2 align="center">I am Full-stack developer, Electronics Engineer</h2>
 
-I'm Yersel Hurtado. A Full-Stack Developer student on Microverse. My last job was as a project manager, it gave me a lot of experience of leading teams :muscle:
+I'm Yersel Hurtado. A Full-stack developer student on Microverse. My last job was as a project manager, it gave me a lot of experience of leading teams :muscle:
 
-I occasionally blog and tweet about Javascript.
+I occasionally blog and tweet about JavaScript.
 
 ## Tools and Languages 💼
 
