@@ -9,13 +9,17 @@
 
 <h2 align="center">I am Full-stack developer, Electronics Engineer</h2>
 
-I'm Yersel Hurtado. A Full-stack developer student on Microverse. My last job was as a project manager, it gave me a lot of experience of leading teams :muscle:
+I'm Yersel Hurtado. A Full-stack developer. My last job was as a project manager, it gave me a lot of experience of leading teams :muscle:
 
-I occasionally blog and tweet about JavaScript.
+I occasionally blog and tweet about Ruby on Rails and React.
 
 ## Tools and Languages 💼
 
-
+![Ruby on Rails](https://img.shields.io/badge/rails-%23CC342D.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -35,7 +39,7 @@ I occasionally blog and tweet about JavaScript.
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss JavaScript related things and tech in general on [Twitter](https://twitter.com/YerselHurtado).
+- Your future buddy to discuss Ruby on Rails related things and tech in general on [Twitter](https://twitter.com/YerselHurtado).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/yersel-hurtado/)
 - And of course GitHub you're already on (Recursion).
 
