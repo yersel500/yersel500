@@ -8,10 +8,15 @@
 </p>
 
 <h2 align="center">I am Full-stack developer, Electronics Engineer</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230AF7A6&center=true&vCenter=true&lines=Software+Engineer;Competitive+programmer;Fast+learner"></a>
+</p>
 
-I'm Yersel Hurtado. A Full-stack developer. My last job was as a project manager, it gave me a lot of experience of leading teams :muscle:
-
-I occasionally blog and tweet about Ruby on Rails and React.
+- 🔭 I’m currently working on projects related to Ruby on Rails in the Back-end and React in the Front-end.
+- 👯 I’m looking to collaborate on Full-stack or Back-end projects
+- 🌱 I love to learn new things, that's why I'm open to learning new technologies if needed.
+- 🤔 In the past, I've worked as a Project Manager where I lead teams with up to 50 members.
+- ⚡ I'm sure that we can program a better world 🌏 together.
 
 ## Tools and Languages 💼
 
@@ -22,10 +27,23 @@ I occasionally blog and tweet about Ruby on Rails and React.
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Heroku](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 <br/>
+
+## Portfolio Website 🌐
+<a href="https://portfolio-yersel.netlify.app/"><img img src="https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Portfolio"/></a>
+
+## Connect with me 🙌
+
+<p>
+	<a href="mailto:yersel500@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/yersel-hurtado/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ## Some Stats :sparkles:
 
