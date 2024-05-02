@@ -7,13 +7,13 @@
   <img src="https://profile-counter.glitch.me/yersel500/count.svg" />
 </p>
 
-<h2 align="center">I am Full-stack developer, Electronics Engineer</h2>
+<h2 align="center">I am Data Science & Full-stack developer, Electronics Engineer</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230AF7A6&center=true&vCenter=true&lines=Software+Engineer;Competitive+programmer;Fast+learner"></a>
 </p>
 
-- 🔭 I’m currently working on projects related to Ruby on Rails in the Back-end and React in the Front-end.
-- 👯 I’m looking to collaborate on Full-stack or Back-end projects
+- 🔭 I’m currently working on projects related to Data Science and Web Development.
+- 👯 I’m looking to collaborate on Data Science, Full-stack or Back-end projects
 - 🌱 I love to learn new things, that's why I'm open to learning new technologies if needed.
 - 🤔 In the past, I've worked as a Project Manager where I lead teams with up to 50 members.
 - ⚡ I'm sure that we can program a better world 🌏 together.
