@@ -61,7 +61,7 @@
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Ruby on Rails related things and tech in general on [Twitter](https://twitter.com/YerselHurtado).
+- Your future buddy to discuss Data Science and Web Development related things and tech in general on [Twitter](https://twitter.com/YerselHurtado).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/yersel-hurtado/)
 - And of course GitHub you're already on (Recursion).
 
